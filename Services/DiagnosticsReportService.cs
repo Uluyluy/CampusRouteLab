@@ -1,7 +1,7 @@
 using CampusRouterLab.Models;
 using Microsoft.AspNetCore.Http.HttpResults;
 
-namespace CampusRouterLab.Services;
+namespace CampusRouteLab.Services;
 
 public class DiagnosticsReportService
 {

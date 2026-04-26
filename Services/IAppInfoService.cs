@@ -1,4 +1,4 @@
-namespace CampusRouterLab.Services;
+namespace CampusRouteLab.Services;
 
 // Хранит информацию о самом приложении (одна на все приложение)
 

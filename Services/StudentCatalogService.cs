@@ -1,6 +1,6 @@
 using CampusRouterLab.Models;
 
-namespace CampusRouterLab.Services;
+namespace CampusRouteLab.Services;
 
 public class StudentCatalogService : IStudentCatalogService
 {

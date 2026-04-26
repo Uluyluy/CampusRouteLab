@@ -1,4 +1,4 @@
-namespace CampusRouterLab.Services;
+namespace CampusRouteLab.Services;
 
 // Хранит информацию о текущем HTTP-запросе (один на запрос)
 public interface IRequestContextService 

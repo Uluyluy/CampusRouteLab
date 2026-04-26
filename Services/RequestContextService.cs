@@ -1,4 +1,4 @@
-namespace CampusRouterLab.Services;
+namespace CampusRouteLab.Services;
 
 public class RequestContextService : IRequestContextService
 {

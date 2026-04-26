@@ -1,6 +1,6 @@
 using CampusRouterLab.Models;
 
-namespace CampusRouterLab.Services;
+namespace CampusRouteLab.Services;
 
 // Хранит и управляет данными о студентах и группах (каталог)
 public interface IStudentCatalogService

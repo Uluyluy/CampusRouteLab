@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.SignalR;
 
-namespace CampusRouterLab.Services;
+namespace CampusRouteLab.Services;
 
 public interface ITransientMarkerService
 {
